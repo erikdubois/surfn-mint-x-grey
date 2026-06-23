@@ -29,4 +29,4 @@ make sure the base `Surfn` theme is present, then select **Surfn Mint X Grey** i
 
 ## License
 
-[LICENSE](./LICENSE) — Attribution-NonCommercial-ShareAlike 4.0 International.
+[LICENSE](./LICENSE) — GPL-3.0, following the LinuxMint upstream ([`debian/copyright`](https://github.com/linuxmint/mint-x-icons/blob/master/debian/copyright)).

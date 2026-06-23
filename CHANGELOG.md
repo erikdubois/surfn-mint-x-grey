@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026.06.23 — relicensed GPL3 + refreshed from upstream
+
+### What Changed
+
+Part of the Surfn Mint-X/Mint-Y per-colour rollout. Two changes to this repo:
+- **Licence corrected to GPL-3.0** (was Attribution-NonCommercial-ShareAlike 4.0). The LinuxMint
+  upstream `mint-x-icons` is GPL-3+ (`debian/copyright` `Files: * → GPL-3+`); the NonCommercial
+  clause was wrong and inconsistent with the rest of the Surfn Mint-X family.
+- **Icon data refreshed** from `linuxmint/mint-x-icons` and `index.theme` standardised to
+  `Inherits=Surfn,Adwaita,gnome,hicolor`, matching the other per-colour Mint-X repos.
+
+### Files Modified
+
+- `LICENSE` (GPL-3 text), `README.md` (licence line), `usr/share/icons/Surfn-Mint-X-Grey/`.
+
 ## 2026.06.20 — split out of the surfn monolith
 
 ### What Changed
