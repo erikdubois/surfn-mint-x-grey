@@ -2,6 +2,8 @@
 
 ## 2026.06.23 — relicensed GPL3 + refreshed from upstream
 
+**Install docs:** the README install section now lists the meta packages (top-level `*-icons-meta`, plus the group meta where applicable) alongside the per-variant `*-icons-git` package — replacing the outdated single `pacman -S` line.
+
 ### What Changed
 
 Part of the Surfn Mint-X/Mint-Y per-colour rollout. Two changes to this repo:

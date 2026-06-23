@@ -16,7 +16,14 @@ A colour variant of the [Surfn](https://github.com/erikdubois/surfn) icon theme.
 
 ## Installation (Arch / Kiro — nemesis_repo)
 
-```
+```bash
+# Everything — the whole Surfn collection (base + all variants)
+sudo pacman -S surfn-icons-meta
+
+# The Surfn Mint-X family (base + all Mint-X colour variants)
+sudo pacman -S surfn-mint-x-meta
+
+# Only this variant
 sudo pacman -S surfn-mint-x-grey-icons-git
 ```
 
